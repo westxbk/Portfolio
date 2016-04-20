@@ -1,0 +1,72 @@
+nav {
+  background-color: #F3F3F3;
+  height: 70px;
+}
+
+nav ul a {
+  font-family: 'Amatic SC', cursive;
+  font-weight: bolder;
+  font-size: 2em;
+  color: #4D4D4D;
+}
+
+.material-icons {
+  color: #4D4D4D;
+}
+
+.side-nav {
+  background-color: #F3F3F3;
+}
+
+.intro {
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+  font-weight: bolder;
+}
+
+.section-white {
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+  font-weight: bolder;
+}
+
+.hello {
+  font-size: 8em;
+  color: #006837;
+}
+
+.my_name {
+  font-size: 5em;
+  color: #4D4D4D;
+}
+
+.description {
+  font-size: 3em;
+  color: #006837;
+}
+
+.joke {
+  font-size: 1.5em;
+}
+
+.about-me {
+  width: 100%;
+}
+
+i {
+  font-size: 5em;
+  color: #4D4D4D;
+}
+
+p {
+  font-size: 1.5em;
+  color: #006837;
+}
+
+.skills-github {
+  padding-top: 33px;
+}
+
+#pc {
+  height: 300px;
+}
