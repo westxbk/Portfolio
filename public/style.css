@@ -70,3 +70,10 @@ p {
 #pc {
   height: 300px;
 }
+
+.contact{
+  color: #fff;
+  border-radius: 50%;
+  background-color: #006837;
+  padding: 10px;
+}
