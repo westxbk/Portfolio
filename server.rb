@@ -1,5 +1,5 @@
 require "sinatra"
 
-get 'index/html' do
-
+get '/' do
+ File.read(File.join('public', 'index.html'))
 end
