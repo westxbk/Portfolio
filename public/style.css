@@ -72,8 +72,9 @@ p {
 }
 
 .contact{
-  color: #white;
+  color: #fff;
   border-radius: 50%;
   background-color: #006837;
   padding: 10px;
+  margin-left: 3px;
 }
